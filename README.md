@@ -32,7 +32,7 @@ Profil verileri, profilinize özel bilgiler koyabilmemiz için saklanır.
 Bu verileri kim alır?
 Bağışçı, öneri ve hata verileri -badges komutunu kullanan herkes tarafından görülebilir.
 
-İnsanlar yalnızca komutlar çalışmadığında kara listeye alınmış olup olmadığınızı görebilir. Ayrıntılı bilgi yalnızca Quacky Yöneticileri tarafından görülebilir.
+İnsanlar yalnızca komutlar çalışmadığında kara listeye alınmış olup olmadığınızı görebilir. Ayrıntılı bilgi yalnızca FireOfEternity Yöneticileri tarafından görülebilir.
 
 Sessiz, Mutedrole, Önek ve Modlog verilerine yalnızca FireOfEternity Yöneticileri tarafından erişilebilir.
 
