@@ -1,7 +1,9 @@
 # Gizlilik Politikası
 
 FireOfEternity'yi kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
-Hangi bilgiler saklanır?
+
+# Hangi bilgiler saklanır?
+
 FireOfEternity, bir hata bulursanız ve / veya bağışçı sıralamanızı (varsa) kaydeder.
 
 FireOfEternity, 05.10.2020 tarihinde [destek sunucumuzdaysanız](https://discord.gg/zoom) kullanıcı kimliğinizi de saklar.
@@ -29,23 +31,19 @@ Sessiz rol bilgileri, bir kişinin sesi kapatıldığında özel bir sessize al�
 
 Profil verileri, profilinize özel bilgiler koyabilmemiz için saklanır.
 
-Bu verileri kim alır?
-Bağışçı, öneri ve hata verileri -badges komutunu kullanan herkes tarafından görülebilir.
-
 İnsanlar yalnızca komutlar çalışmadığında kara listeye alınmış olup olmadığınızı görebilir. Ayrıntılı bilgi yalnızca FireOfEternity Yöneticileri tarafından görülebilir.
 
 Sessiz, Mutedrole, Önek ve Modlog verilerine yalnızca FireOfEternity Yöneticileri tarafından erişilebilir.
 
-3. Taraf Veri Paylaşımı
-FireOfEternity Botun kullanımını analiz etmek için verileri Statcord ile paylaşır .
-
-Statcord, kullanıcı kimliklerinin yanı sıra kullanım verileri gibi kişisel olarak tanımlanabilir bilgileri toplar. Gizlilik politikalarını buradan görüntüleyebilirsiniz.
+# 3. Taraf Veri Paylaşımı
+FireOfEternity Botun Verileri Hiç Kimseye Paylaşılmamaktadır.
 
 Sorular ve Endişeler.
+
 Depolanan verilerle ilgili endişeleriniz varsa FireOfEternity Destek Sunucusuna katılın veya bize e-posta gönderin.
 
 Verilerinizi nasıl kaldırabilirsiniz?
-Verilerinizi kaldırmak isterseniz aşağıdaki bilgilerle bize e-posta gönderebilirsiniz :
+Verilerinizi kaldırmak isterseniz aşağıdaki bilgilerle bize e-posta gönderebilirsiniz : support@discordevs.org
 
 Kaldırılmasını istediğiniz bilgiler, kullanıcı adınız ve lonca kimliğiniz (gerekirse).
 
@@ -53,4 +51,4 @@ Bu verileri temizlemek kara liste verilerini veya sessiz verileri temizlemez, an
 
 
 Not: Kullanıcılarımıza haber vermeden bunu değiştirme hakkını saklı tutarız.
-Bu politika en son 24 Kasım 2020 tarihinde güncellenmiştir.
+Bu politika 24 Kasım 2020 tarihinde oluşturulmuş 2 Şubat 2021de düzenlenmiştir.
