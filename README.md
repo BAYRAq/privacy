@@ -20,7 +20,8 @@ Eğer sessize alırsanız, guild, moderatör ve kullanıcı kimliğiniz saklanı
 
 Sunucunuz bir modlog, mutedrol veya önek belirlerse, guild id, channel-id, prefix ve / veya roleid saklanır.
 
-Bilgileri neden saklıyoruz ve nasıl kullanıyoruz?
+# Bilgileri neden saklıyoruz ve nasıl kullanıyoruz?
+
 Bu bilgiler, size rozetler sağlamak ve belirli komutları çalıştırmanıza izin verilip verilmediğini bota bildirmek için saklanır.
 
 Sesi kapatılan veriler, sizi geçici olarak sessize almak ve sunucudan çıkıp yeniden katıldığınızda sessize alma işleminizi yeniden uygulamak için saklanır.
@@ -38,16 +39,15 @@ Sessiz, Mutedrole, Önek ve Modlog verilerine yalnızca FireOfEternity Yönetici
 # 3. Taraf Veri Paylaşımı
 FireOfEternity Botun Verileri Hiç Kimseye Paylaşılmamaktadır.
 
-Sorular ve Endişeler.
-
 Depolanan verilerle ilgili endişeleriniz varsa FireOfEternity Destek Sunucusuna katılın veya bize e-posta gönderin.
 
-Verilerinizi nasıl kaldırabilirsiniz?
+# Verilerinizi nasıl kaldırabilirsiniz?
+
 Verilerinizi kaldırmak isterseniz aşağıdaki bilgilerle bize e-posta gönderebilirsiniz : support@discordevs.org
 
 Kaldırılmasını istediğiniz bilgiler, kullanıcı adınız ve lonca kimliğiniz (gerekirse).
 
-Bu verileri temizlemek kara liste verilerini veya sessiz verileri temizlemez, ancak FireOfEternity Rozetlerinizi ve lonca verilerinizi (istenirse) kaldırır.
+Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 
 
 Not: Kullanıcılarımıza haber vermeden bunu değiştirme hakkını saklı tutarız.
